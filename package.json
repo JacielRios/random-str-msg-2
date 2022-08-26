@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-2",
+  "version": "1.0.0",
+  "description": "Random string messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacielRios/random-str-msg-2.git"
+  },
+  "author": "Jaciel Rios <jaciel.jbrm@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JacielRios/random-str-msg-2/issues"
+  },
+  "homepage": "https://github.com/JacielRios/random-str-msg-2#readme",
+  "keywords": [],
+  "bin": {
+    "random-str-msg-2": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
